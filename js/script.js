@@ -22,3 +22,8 @@ for (menu of menuLinks){
     a.innerHTML = menu.text
     topMenuEL.append(a)
 }
+// 2sd part lab
+
+let subMenuEl = document.getElementById("sub-menu");
+subMenuEl.style.height = "100%";
+subMenuEl.style.backgroundColor = "var(--sub-menu-bg)";
