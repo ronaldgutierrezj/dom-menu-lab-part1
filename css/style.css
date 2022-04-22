@@ -65,3 +65,6 @@
     background-color: var(--sub-menu-bg);
     color: var(--main-bg);
   }
+  h1 {
+    text-transform: uppercase;
+  }
